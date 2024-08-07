@@ -36,3 +36,7 @@ h5 {
 .hero-head {
     padding-bottom: 10px;
 }
+
+.altButton {
+    display: none !important;
+}

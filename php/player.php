@@ -30,7 +30,7 @@
         <header class="navbar">
           <div class="container">
             <div class="navbar-brand">
-              <a class="navbar-item" href="<?php echo "$ztitle_link" ?>" target="_blank">
+              <a class="navbar-item" href="<?php echo "$title_link" ?>" target="_blank">
                 <img
                   class="mr-2"
                   src="<?php echo "$icon" ?>"

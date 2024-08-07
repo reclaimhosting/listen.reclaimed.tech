@@ -1,1 +1,0 @@
-docker run --rm -p 80:80 -v "$PWD":/var/www/html php:8.1-apache

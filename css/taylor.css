@@ -1,0 +1,38 @@
+/* .prg__time.tag.is-info {
+    display: none !important;
+} */
+
+.modal-card-title {
+    flex-shrink: unset !important;
+}
+
+.navbar-burger {
+    display: none !important;
+}
+
+.hero.is-halfheight .hero-body, .hero.is-fullheight .hero-body, .hero.is-fullheight-with-navbar .hero-body {
+    align-items: normal !important;
+}
+
+/* Make sure Discord widget's rounded corners stay rounded on the iframe in Safari */
+div.column:nth-child(3) > widgetbot:nth-child(1) > iframe:nth-child(1) {
+    border-radius: 7px !important;
+}
+
+/* Fix size of discord widget on mobile */
+@media screen and (max-width: 769px), print {
+    .columns.is-multiline {
+        height: 100%;
+    }
+    div.column:nth-child(3) {
+        height: 50vh;
+    }
+}
+
+h5 {
+    font-size: 87%;
+}
+
+.hero-head {
+    padding-bottom: 10px;
+}

@@ -1,0 +1,1192 @@
+{
+  "data": [
+    {
+      "id": 1729,
+      "slug": "day-2",
+      "type": "presentation",
+      "link": "https://roadshowwp.uk.reclaim.cloud/presentation/day-2/",
+      "title": {
+        "rendered": "Day 2"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p> [&#8230;]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://roadshowwp.uk.reclaim.cloud/presentation/day-2/\">Read More&#8230;</a></p>\n",
+        "protected": false
+      },
+      "author": 1,
+      "featured_media": 0,
+      "template": "",
+      "meta": [],
+      "categories": [],
+      "tags": [],
+      "acf": {
+        "subtitle": "",
+        "presentation_type": "Day",
+        "presentation_date": "06/23/2021",
+        "time": "11:00 am",
+        "duration": "5"
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/presentation/1729"
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/presentation"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/types/presentation"
+          }
+        ],
+        "author": [
+          {
+            "embeddable": true,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/users/1"
+          }
+        ],
+        "version-history": [
+          {
+            "count": 1,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/presentation/1729/revisions"
+          }
+        ],
+        "predecessor-version": [
+          {
+            "id": 1730,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/presentation/1729/revisions/1730"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/media?parent=1729"
+          }
+        ],
+        "wp:term": [
+          {
+            "taxonomy": "category",
+            "embeddable": true,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/categories?post=1729"
+          },
+          {
+            "taxonomy": "post_tag",
+            "embeddable": true,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/tags?post=1729"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 1727,
+      "slug": "day-1",
+      "status": "publish",
+      "type": "presentation",
+      "link": "https://roadshowwp.uk.reclaim.cloud/presentation/day-1/",
+      "title": {
+        "rendered": "Day 1"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p> [&#8230;]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://roadshowwp.uk.reclaim.cloud/presentation/day-1/\">Read More&#8230;</a></p>\n",
+        "protected": false
+      },
+      "author": 1,
+      "featured_media": 0,
+      "template": "",
+      "meta": [],
+      "categories": [],
+      "tags": [],
+      "acf": {
+        "subtitle": "",
+        "presentation_type": "Day",
+        "presentation_date": "06/22/2021",
+        "time": "11:00 am",
+        "duration": "5"
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/presentation/1727"
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/presentation"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/types/presentation"
+          }
+        ],
+        "author": [
+          {
+            "embeddable": true,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/users/1"
+          }
+        ],
+        "version-history": [
+          {
+            "count": 1,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/presentation/1727/revisions"
+          }
+        ],
+        "predecessor-version": [
+          {
+            "id": 1728,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/presentation/1727/revisions/1728"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/media?parent=1727"
+          }
+        ],
+        "wp:term": [
+          {
+            "taxonomy": "category",
+            "embeddable": true,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/categories?post=1727"
+          },
+          {
+            "taxonomy": "post_tag",
+            "embeddable": true,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/tags?post=1727"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 1717,
+      "slug": "closing-final-qa",
+      "status": "publish",
+      "type": "presentation",
+      "link": "https://roadshowwp.uk.reclaim.cloud/presentation/closing-final-qa/",
+      "title": {
+        "rendered": "Closing + Final Q&#038;A"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p> [&#8230;]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://roadshowwp.uk.reclaim.cloud/presentation/closing-final-qa/\">Read More&#8230;</a></p>\n",
+        "protected": false
+      },
+      "author": 2,
+      "featured_media": 0,
+      "template": "",
+      "meta": [],
+      "categories": [19],
+      "tags": [],
+      "acf": {
+        "subtitle": "",
+        "presentation_date": "06/23/2021",
+        "time": "3:35 pm",
+        "duration": "25",
+        "speakers": [
+          {
+            "ID": 1644,
+            "post_author": "2",
+            "post_date": "2021-06-04 19:31:25",
+            "post_date_gmt": "2021-06-04 19:31:25",
+            "post_content": "https://twitter.com/brumface",
+            "post_title": "Hanks, Lauren",
+            "post_excerpt": "",
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "open",
+            "post_password": "",
+            "post_name": "1644",
+            "to_ping": "",
+            "pinged": "",
+            "post_modified": "2021-06-04 19:31:45",
+            "post_modified_gmt": "2021-06-04 19:31:45",
+            "post_content_filtered": "",
+            "post_parent": 0,
+            "guid": "https://roadshowwp.uk.reclaim.cloud/?post_type=speaker&#038;p=1644",
+            "menu_order": 0,
+            "post_type": "speaker",
+            "post_mime_type": "",
+            "comment_count": "0",
+            "filter": "raw"
+          },
+          {
+            "ID": 1648,
+            "post_author": "2",
+            "post_date": "2021-06-04 19:32:49",
+            "post_date_gmt": "2021-06-04 19:32:49",
+            "post_content": "",
+            "post_title": "Groom, Jim",
+            "post_excerpt": "",
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "open",
+            "post_password": "",
+            "post_name": "1648",
+            "to_ping": "",
+            "pinged": "",
+            "post_modified": "2021-06-04 19:32:49",
+            "post_modified_gmt": "2021-06-04 19:32:49",
+            "post_content_filtered": "",
+            "post_parent": 0,
+            "guid": "https://roadshowwp.uk.reclaim.cloud/?post_type=speaker&#038;p=1648",
+            "menu_order": 0,
+            "post_type": "speaker",
+            "post_mime_type": "",
+            "comment_count": "0",
+            "filter": "raw"
+          }
+        ],
+        "presentation_type": "Presentation",
+        "presentation_theme": [],
+        "keywords": false,
+        "channel": [],
+        "session_description": "",
+        "session_id": "",
+        "resources_and_references": "",
+        "session_chair": "",
+        "session_staff_member": "",
+        "pick_your_media_path": "YoutubeLiveID",
+        "youtube_live_id": "8DMLq3MZf7s",
+        "choose_your_chat": "Domains21",
+        "youtube_id": ""
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/presentation/1717"
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/presentation"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/types/presentation"
+          }
+        ],
+        "author": [
+          {
+            "embeddable": true,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/users/2"
+          }
+        ],
+        "version-history": [
+          {
+            "count": 3,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/presentation/1717/revisions"
+          }
+        ],
+        "predecessor-version": [
+          {
+            "id": 1723,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/presentation/1717/revisions/1723"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/media?parent=1717"
+          }
+        ],
+        "wp:term": [
+          {
+            "taxonomy": "category",
+            "embeddable": true,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/categories?post=1717"
+          },
+          {
+            "taxonomy": "post_tag",
+            "embeddable": true,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/tags?post=1717"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 1715,
+      "slug": "break-9",
+      "status": "publish",
+      "type": "presentation",
+      "link": "https://roadshowwp.uk.reclaim.cloud/presentation/break-9/",
+      "title": {
+        "rendered": "Break"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p> [&#8230;]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://roadshowwp.uk.reclaim.cloud/presentation/break-9/\">Read More&#8230;</a></p>\n",
+        "protected": false
+      },
+      "author": 2,
+      "featured_media": 0,
+      "template": "",
+      "meta": [],
+      "categories": [19],
+      "tags": [],
+      "acf": {
+        "subtitle": "",
+        "presentation_date": "06/23/2021",
+        "time": "3:30 pm",
+        "duration": "5",
+        "speakers": false,
+        "presentation_type": "Break",
+        "presentation_theme": [],
+        "keywords": false,
+        "channel": [],
+        "session_description": "",
+        "session_id": "",
+        "resources_and_references": "<p>Take a quick breather before the final closing.</p>\n",
+        "session_chair": "",
+        "session_staff_member": "",
+        "pick_your_media_path": "YoutubeID",
+        "youtube_id": "67lnjV6SrFw",
+        "choose_your_chat": "Domains21"
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/presentation/1715"
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/presentation"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/types/presentation"
+          }
+        ],
+        "author": [
+          {
+            "embeddable": true,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/users/2"
+          }
+        ],
+        "version-history": [
+          {
+            "count": 1,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/presentation/1715/revisions"
+          }
+        ],
+        "predecessor-version": [
+          {
+            "id": 1716,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/presentation/1715/revisions/1716"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/media?parent=1715"
+          }
+        ],
+        "wp:term": [
+          {
+            "taxonomy": "category",
+            "embeddable": true,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/categories?post=1715"
+          },
+          {
+            "taxonomy": "post_tag",
+            "embeddable": true,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/tags?post=1715"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 1713,
+      "slug": "show-tell",
+      "status": "publish",
+      "type": "presentation",
+      "link": "https://roadshowwp.uk.reclaim.cloud/presentation/show-tell/",
+      "title": {
+        "rendered": "Show &#038; Tell"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p> [&#8230;]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://roadshowwp.uk.reclaim.cloud/presentation/show-tell/\">Read More&#8230;</a></p>\n",
+        "protected": false
+      },
+      "author": 2,
+      "featured_media": 0,
+      "template": "",
+      "meta": [],
+      "categories": [19],
+      "tags": [],
+      "acf": {
+        "subtitle": "",
+        "presentation_date": "06/23/2021",
+        "time": "2:30 pm",
+        "duration": "60",
+        "speakers": [
+          {
+            "ID": 1644,
+            "post_author": "2",
+            "post_date": "2021-06-04 19:31:25",
+            "post_date_gmt": "2021-06-04 19:31:25",
+            "post_content": "https://twitter.com/brumface",
+            "post_title": "Hanks, Lauren",
+            "post_excerpt": "",
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "open",
+            "post_password": "",
+            "post_name": "1644",
+            "to_ping": "",
+            "pinged": "",
+            "post_modified": "2021-06-04 19:31:45",
+            "post_modified_gmt": "2021-06-04 19:31:45",
+            "post_content_filtered": "",
+            "post_parent": 0,
+            "guid": "https://roadshowwp.uk.reclaim.cloud/?post_type=speaker&#038;p=1644",
+            "menu_order": 0,
+            "post_type": "speaker",
+            "post_mime_type": "",
+            "comment_count": "0",
+            "filter": "raw"
+          },
+          {
+            "ID": 1648,
+            "post_author": "2",
+            "post_date": "2021-06-04 19:32:49",
+            "post_date_gmt": "2021-06-04 19:32:49",
+            "post_content": "",
+            "post_title": "Groom, Jim",
+            "post_excerpt": "",
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "open",
+            "post_password": "",
+            "post_name": "1648",
+            "to_ping": "",
+            "pinged": "",
+            "post_modified": "2021-06-04 19:32:49",
+            "post_modified_gmt": "2021-06-04 19:32:49",
+            "post_content_filtered": "",
+            "post_parent": 0,
+            "guid": "https://roadshowwp.uk.reclaim.cloud/?post_type=speaker&#038;p=1648",
+            "menu_order": 0,
+            "post_type": "speaker",
+            "post_mime_type": "",
+            "comment_count": "0",
+            "filter": "raw"
+          }
+        ],
+        "presentation_type": "Presentation",
+        "presentation_theme": [],
+        "keywords": false,
+        "channel": [],
+        "session_description": "<p>Have a cool use case for DoOO? Want to highlight work from your community? Have a strategy or workflow that has been successful for administering DoOO? Anyone is welcome! <a href=\"https://streamyard.com/rzfp6us89n\">Join us here</a> if you want to share.</p>\n",
+        "session_id": "",
+        "resources_and_references": "",
+        "session_chair": "",
+        "session_staff_member": "",
+        "pick_your_media_path": "YoutubeLiveID",
+        "youtube_live_id": "tufP_2R5I4E",
+        "choose_your_chat": "Domains21"
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/presentation/1713"
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/presentation"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/types/presentation"
+          }
+        ],
+        "author": [
+          {
+            "embeddable": true,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/users/2"
+          }
+        ],
+        "version-history": [
+          {
+            "count": 2,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/presentation/1713/revisions"
+          }
+        ],
+        "predecessor-version": [
+          {
+            "id": 1719,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/presentation/1713/revisions/1719"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/media?parent=1713"
+          }
+        ],
+        "wp:term": [
+          {
+            "taxonomy": "category",
+            "embeddable": true,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/categories?post=1713"
+          },
+          {
+            "taxonomy": "post_tag",
+            "embeddable": true,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/tags?post=1713"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 1711,
+      "slug": "break-8",
+      "status": "publish",
+      "type": "presentation",
+      "link": "https://roadshowwp.uk.reclaim.cloud/presentation/break-8/",
+      "title": {
+        "rendered": "Break"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p> [&#8230;]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://roadshowwp.uk.reclaim.cloud/presentation/break-8/\">Read More&#8230;</a></p>\n",
+        "protected": false
+      },
+      "author": 2,
+      "featured_media": 0,
+      "template": "",
+      "meta": [],
+      "categories": [19],
+      "tags": [],
+      "acf": {
+        "subtitle": "",
+        "presentation_date": "06/23/2021",
+        "time": "2:05 pm",
+        "duration": "25",
+        "speakers": false,
+        "presentation_type": "Break",
+        "presentation_theme": [],
+        "keywords": false,
+        "channel": [],
+        "session_description": "<p>Grab a bite to eat or say hello in Discord!</p>\n",
+        "session_id": "",
+        "resources_and_references": "",
+        "session_chair": "",
+        "session_staff_member": "",
+        "pick_your_media_path": "YoutubeID",
+        "youtube_id": "67lnjV6SrFw",
+        "choose_your_chat": "Domains21"
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/presentation/1711"
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/presentation"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/types/presentation"
+          }
+        ],
+        "author": [
+          {
+            "embeddable": true,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/users/2"
+          }
+        ],
+        "version-history": [
+          {
+            "count": 1,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/presentation/1711/revisions"
+          }
+        ],
+        "predecessor-version": [
+          {
+            "id": 1712,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/presentation/1711/revisions/1712"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/media?parent=1711"
+          }
+        ],
+        "wp:term": [
+          {
+            "taxonomy": "category",
+            "embeddable": true,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/categories?post=1711"
+          },
+          {
+            "taxonomy": "post_tag",
+            "embeddable": true,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/tags?post=1711"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 1709,
+      "slug": "why-reclaim-cloud",
+      "status": "publish",
+      "type": "presentation",
+      "link": "https://roadshowwp.uk.reclaim.cloud/presentation/why-reclaim-cloud/",
+      "title": {
+        "rendered": "Why Reclaim Cloud?"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p> [&#8230;]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://roadshowwp.uk.reclaim.cloud/presentation/why-reclaim-cloud/\">Read More&#8230;</a></p>\n",
+        "protected": false
+      },
+      "author": 2,
+      "featured_media": 0,
+      "template": "",
+      "meta": [],
+      "categories": [19],
+      "tags": [],
+      "acf": {
+        "subtitle": "",
+        "presentation_date": "06/23/2021",
+        "time": "1:35 pm",
+        "duration": "30",
+        "speakers": [
+          {
+            "ID": 1652,
+            "post_author": "2",
+            "post_date": "2021-06-04 19:33:11",
+            "post_date_gmt": "2021-06-04 19:33:11",
+            "post_content": "",
+            "post_title": "Owens, Tim",
+            "post_excerpt": "",
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "open",
+            "post_password": "",
+            "post_name": "1652",
+            "to_ping": "",
+            "pinged": "",
+            "post_modified": "2021-06-04 19:33:14",
+            "post_modified_gmt": "2021-06-04 19:33:14",
+            "post_content_filtered": "",
+            "post_parent": 0,
+            "guid": "https://roadshowwp.uk.reclaim.cloud/?post_type=speaker&#038;p=1652",
+            "menu_order": 0,
+            "post_type": "speaker",
+            "post_mime_type": "",
+            "comment_count": "0",
+            "filter": "raw"
+          }
+        ],
+        "presentation_type": "Presentation",
+        "presentation_theme": [],
+        "keywords": false,
+        "channel": [],
+        "session_description": "",
+        "session_id": "",
+        "resources_and_references": "",
+        "session_chair": "",
+        "session_staff_member": "",
+        "pick_your_media_path": "YoutubeLiveID",
+        "youtube_live_id": "yNDZ4fkyZxo",
+        "choose_your_chat": "Domains21"
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/presentation/1709"
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/presentation"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/types/presentation"
+          }
+        ],
+        "author": [
+          {
+            "embeddable": true,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/users/2"
+          }
+        ],
+        "version-history": [
+          {
+            "count": 1,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/presentation/1709/revisions"
+          }
+        ],
+        "predecessor-version": [
+          {
+            "id": 1710,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/presentation/1709/revisions/1710"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/media?parent=1709"
+          }
+        ],
+        "wp:term": [
+          {
+            "taxonomy": "category",
+            "embeddable": true,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/categories?post=1709"
+          },
+          {
+            "taxonomy": "post_tag",
+            "embeddable": true,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/tags?post=1709"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 1703,
+      "slug": "measuring-the-impact-of-domains",
+      "status": "publish",
+      "type": "presentation",
+      "link": "https://roadshowwp.uk.reclaim.cloud/presentation/measuring-the-impact-of-domains/",
+      "title": {
+        "rendered": "Measuring the Impact of Domains"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p> [&#8230;]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://roadshowwp.uk.reclaim.cloud/presentation/measuring-the-impact-of-domains/\">Read More&#8230;</a></p>\n",
+        "protected": false
+      },
+      "author": 2,
+      "featured_media": 0,
+      "template": "",
+      "meta": [],
+      "categories": [19],
+      "tags": [],
+      "acf": {
+        "subtitle": "",
+        "presentation_date": "06/23/2021",
+        "time": "1:05 pm",
+        "duration": "30",
+        "speakers": [
+          {
+            "ID": 1648,
+            "post_author": "2",
+            "post_date": "2021-06-04 19:32:49",
+            "post_date_gmt": "2021-06-04 19:32:49",
+            "post_content": "",
+            "post_title": "Groom, Jim",
+            "post_excerpt": "",
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "open",
+            "post_password": "",
+            "post_name": "1648",
+            "to_ping": "",
+            "pinged": "",
+            "post_modified": "2021-06-04 19:32:49",
+            "post_modified_gmt": "2021-06-04 19:32:49",
+            "post_content_filtered": "",
+            "post_parent": 0,
+            "guid": "https://roadshowwp.uk.reclaim.cloud/?post_type=speaker&#038;p=1648",
+            "menu_order": 0,
+            "post_type": "speaker",
+            "post_mime_type": "",
+            "comment_count": "0",
+            "filter": "raw"
+          },
+          {
+            "ID": 1705,
+            "post_author": "2",
+            "post_date": "2021-06-04 20:03:26",
+            "post_date_gmt": "2021-06-04 20:03:26",
+            "post_content": "",
+            "post_title": "Woodward, Tom",
+            "post_excerpt": "",
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "open",
+            "post_password": "",
+            "post_name": "1705",
+            "to_ping": "",
+            "pinged": "",
+            "post_modified": "2021-06-04 20:03:26",
+            "post_modified_gmt": "2021-06-04 20:03:26",
+            "post_content_filtered": "",
+            "post_parent": 0,
+            "guid": "https://roadshowwp.uk.reclaim.cloud/?post_type=speaker&#038;p=1705",
+            "menu_order": 0,
+            "post_type": "speaker",
+            "post_mime_type": "",
+            "comment_count": "0",
+            "filter": "raw"
+          }
+        ],
+        "presentation_type": "Presentation",
+        "presentation_theme": [],
+        "keywords": false,
+        "channel": [],
+        "session_description": "",
+        "session_id": "",
+        "resources_and_references": "",
+        "session_chair": "",
+        "session_staff_member": "",
+        "pick_your_media_path": "YoutubeLiveID",
+        "youtube_live_id": "PkNcABknzis",
+        "choose_your_chat": "Domains21"
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/presentation/1703"
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/presentation"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/types/presentation"
+          }
+        ],
+        "author": [
+          {
+            "embeddable": true,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/users/2"
+          }
+        ],
+        "version-history": [
+          {
+            "count": 2,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/presentation/1703/revisions"
+          }
+        ],
+        "predecessor-version": [
+          {
+            "id": 1708,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/presentation/1703/revisions/1708"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/media?parent=1703"
+          }
+        ],
+        "wp:term": [
+          {
+            "taxonomy": "category",
+            "embeddable": true,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/categories?post=1703"
+          },
+          {
+            "taxonomy": "post_tag",
+            "embeddable": true,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/tags?post=1703"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 1701,
+      "date": "2021-06-04T20:01:41",
+      "date_gmt": "2021-06-04T20:01:41",
+      "guid": {
+        "rendered": "https://roadshowwp.uk.reclaim.cloud/?post_type=presentation&#038;p=1701"
+      },
+      "modified": "2021-06-04T20:12:06",
+      "modified_gmt": "2021-06-04T20:12:06",
+      "slug": "break-7",
+      "status": "publish",
+      "type": "presentation",
+      "link": "https://roadshowwp.uk.reclaim.cloud/presentation/break-7/",
+      "title": {
+        "rendered": "Break"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p> [&#8230;]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://roadshowwp.uk.reclaim.cloud/presentation/break-7/\">Read More&#8230;</a></p>\n",
+        "protected": false
+      },
+      "author": 2,
+      "featured_media": 0,
+      "template": "",
+      "meta": [],
+      "categories": [19],
+      "tags": [],
+      "acf": {
+        "subtitle": "",
+        "presentation_date": "06/23/2021",
+        "time": "1:00 pm",
+        "duration": "5",
+        "speakers": false,
+        "presentation_type": "Break",
+        "presentation_theme": [],
+        "keywords": false,
+        "channel": [],
+        "session_description": "<p>Stretch your legs or grab a cup of coffee!</p>\n",
+        "session_id": "",
+        "resources_and_references": "",
+        "session_chair": "",
+        "session_staff_member": "",
+        "pick_your_media_path": "YoutubeID",
+        "youtube_id": "67lnjV6SrFw",
+        "choose_your_chat": "Domains21"
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/presentation/1701"
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/presentation"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/types/presentation"
+          }
+        ],
+        "author": [
+          {
+            "embeddable": true,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/users/2"
+          }
+        ],
+        "version-history": [
+          {
+            "count": 1,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/presentation/1701/revisions"
+          }
+        ],
+        "predecessor-version": [
+          {
+            "id": 1702,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/presentation/1701/revisions/1702"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/media?parent=1701"
+          }
+        ],
+        "wp:term": [
+          {
+            "taxonomy": "category",
+            "embeddable": true,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/categories?post=1701"
+          },
+          {
+            "taxonomy": "post_tag",
+            "embeddable": true,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/tags?post=1701"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 1699,
+      "slug": "breakout-discussions",
+      "status": "publish",
+      "type": "presentation",
+      "link": "https://roadshowwp.uk.reclaim.cloud/presentation/breakout-discussions/",
+      "title": {
+        "rendered": "Breakout Discussions"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p> [&#8230;]</p>\n<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://roadshowwp.uk.reclaim.cloud/presentation/breakout-discussions/\">Read More&#8230;</a></p>\n",
+        "protected": false
+      },
+      "author": 2,
+      "featured_media": 0,
+      "template": "",
+      "meta": [],
+      "categories": [19],
+      "tags": [],
+      "acf": {
+        "subtitle": "",
+        "presentation_date": "06/23/2021",
+        "time": "12:05 pm",
+        "duration": "55",
+        "speakers": false,
+        "presentation_type": "Alt-format",
+        "presentation_theme": [],
+        "keywords": false,
+        "channel": [],
+        "session_description": "<p>Join us in Discord Voice channels for Breakout Discussions:</p>\n<p>Libraries<br />\nIT Departments<br />\nEd Tech<br />\nDigital Humanities<br />\nOther</p>\n",
+        "session_id": "",
+        "resources_and_references": "",
+        "session_chair": "",
+        "session_staff_member": "",
+        "pick_your_media_path": "Discord OpenSpaces1",
+        "choose_your_chat": "Domains21"
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/presentation/1699"
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/presentation"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/types/presentation"
+          }
+        ],
+        "author": [
+          {
+            "embeddable": true,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/users/2"
+          }
+        ],
+        "version-history": [
+          {
+            "count": 2,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/presentation/1699/revisions"
+          }
+        ],
+        "predecessor-version": [
+          {
+            "id": 1720,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/presentation/1699/revisions/1720"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/media?parent=1699"
+          }
+        ],
+        "wp:term": [
+          {
+            "taxonomy": "category",
+            "embeddable": true,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/categories?post=1699"
+          },
+          {
+            "taxonomy": "post_tag",
+            "embeddable": true,
+            "href": "https://roadshowwp.uk.reclaim.cloud/wp-json/wp/v2/tags?post=1699"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -40,16 +40,16 @@
                   ><?php echo "$title" ?></span
                 >
               </a>
-              <a class="navbar-item" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTluNHiPsuA9axY1h61TKnWrxhEtx51HfRJUaKyD1D946zuAl_yXFh41Z4f5kfaahNFmtFr2WgeqYmR/pubhtml?gid=292910319&single=true" target="_blank">
-                <span
-                  class="is-size-12 is-uppercase"
-                  >Full Schedule</span
-                >
-              </a>
               <a class="navbar-item" href="https://blog.reclaimhosting.com/get-ready-for-camp/" target="_blank">
                 <span
                   class="is-size-12 is-uppercase"
                   >About</span
+                >
+              </a>
+              <a class="navbar-item" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTluNHiPsuA9axY1h61TKnWrxhEtx51HfRJUaKyD1D946zuAl_yXFh41Z4f5kfaahNFmtFr2WgeqYmR/pubhtml?gid=292910319&single=true" target="_blank">
+                <span
+                  class="is-size-12 is-uppercase"
+                  >Full Schedule</span
                 >
               </a>
               <span class="navbar-burger" data-target="navbarMenuHeroC">

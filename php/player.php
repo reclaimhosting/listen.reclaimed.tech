@@ -52,6 +52,12 @@
                   >Full Schedule</span
                 >
               </a>
+              <a class="navbar-item" href="https://podcasts.reclaimed.tech/@ds106radioSummerCamp/episodes" target="_blank">
+                <span
+                  class="is-size-12 is-uppercase"
+                  >Recordings & Transcripts</span
+                >
+              </a>
               <span class="navbar-burger" data-target="navbarMenuHeroC">
                 <span></span>
                 <span></span>

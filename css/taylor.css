@@ -11,7 +11,7 @@
 }
 
 .navbar-brand {
-    overflow-inline: auto;
+    overflow: auto;
 }
 
 .hero.is-halfheight .hero-body, .hero.is-fullheight .hero-body, .hero.is-fullheight-with-navbar .hero-body {

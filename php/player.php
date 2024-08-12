@@ -58,6 +58,12 @@
                   >Recordings & Transcripts</span
                 >
               </a>
+              <a class="navbar-item" href="https://social.ds106.us/tags/ds106radioSummerCamp" target="_blank">
+                <span
+                  class="is-size-12 is-uppercase"
+                  >#ds106RadioSummerCamp</span
+                >
+              </a>
               <span class="navbar-burger" data-target="navbarMenuHeroC">
                 <span></span>
                 <span></span>
